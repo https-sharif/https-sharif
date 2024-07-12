@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&color=0e75b6&style=flat" alt="sharif-islam96403" /> </p>
 
-- 🔭 I’m currently working on **Java Escape Room Game**
+- I’m currently working on **Routine Scheduler** using **JavaScript**
 
-- 🌱 I’m currently learning **React and Swift**
+- I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **HTML, C++ or any other questions you have. I will be sure to answer your questions.**
+- Ask me about **HTML, C++ or any other questions you have. I will be sure to answer your questions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
