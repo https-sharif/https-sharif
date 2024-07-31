@@ -5,7 +5,7 @@
 
 - I’m currently working on **Routine Scheduler** using **JavaScript**
 
-- I’m currently learning **Frontend Development**
+- I’m currently learning **React** and **Node.js**
 
 - Ask me about **HTML, C++ or any other questions you have. I will be sure to answer your questions.**
 
