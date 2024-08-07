@@ -113,7 +113,7 @@
         </a>
     </span>
     <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" align="right" style="width: 400px; height: 200px; vertical-align: middle;" />
+        <img alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
     </span>
 </div>
 
