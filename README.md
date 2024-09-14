@@ -97,7 +97,7 @@
 ### <u> Currently I'm learning: </u>
 <br>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" align="center" />
 &nbsp;
 <br>
 
