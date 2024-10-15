@@ -4,7 +4,7 @@
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="./CatCode.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https-sharif&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="https-sharif" /> </p>
   <h3> Full Stack || Self-Taught Developer || CS @ EDU</h3>
   
   - Looking for an idea for my next project.
@@ -133,7 +133,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
     <span style="display: inline-block;">
         <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=sharif-islam96403&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=https-sharif&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
         </a>
     </span>
     <span style="display: inline-block; margin-left: 20px;">
