@@ -4,7 +4,7 @@
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="./CatCode.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https-sharif&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="https-sharif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https-sharif&label=Profile%20views&base=2580&abbreviated=true&color=252da1&style=for-the-badge" alt="https-sharif" /> </p>
   <h3> Full Stack || Self-Taught Developer || CS @ EDU</h3>
   
   - Looking for an idea for my next project.
